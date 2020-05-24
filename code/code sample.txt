@@ -1,0 +1,13 @@
+def message():
+  x = 6
+  y = True
+  z=10
+  
+  for i in range(x):
+    z-=1
+    
+  
+  if(z<=5 and y):
+    print("tell baez he's an awesome teacher")
+    
+message()
